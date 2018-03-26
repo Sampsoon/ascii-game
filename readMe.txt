@@ -1,0 +1,1 @@
+This game was made for a linux based compiler
