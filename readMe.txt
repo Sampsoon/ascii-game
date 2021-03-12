@@ -1,1 +1,1 @@
-This game was made for a linux based compiler
+I made this game in 2013 when I was a freshman in high school and just getting started with programming. The clear buffer code was written for the online CPP Linux interpreter I was using. This was the one piece of code that I did not write. It makes it so that you don't need to hit enter on every input. Just delete it if it's not working.
