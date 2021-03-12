@@ -1,15 +1,9 @@
 #include <iostream>
-
 #include <string>
-
 #include <sstream>
-
 #include <termios.h>
-
 #include <stdio.h>
-
 #include <unistd.h>
-
 #include <termcap.h>
 
 using namespace std;
