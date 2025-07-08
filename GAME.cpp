@@ -15,7 +15,7 @@ bool game_over = false;
 struct termios goldtio;
 
 void no_buffer() {
-  //struct termios goldtio, new_tio;
+  struct termios goldtio, new_tio;
   unsigned char c;
 
   /* get the terminal settings for stdin */
